@@ -2,7 +2,7 @@
 
 # MoneyPrinterTurbo 💸
 
-### An All-in-One AI Short Video Generator
+### An All-in-One AI Short Video Generator  
 
 Provide a video <b>topic</b> or <b>keyword</b>, and MoneyPrinterTurbo will generate the script, match footage, create subtitles and background music, and produce an HD short video.
 
